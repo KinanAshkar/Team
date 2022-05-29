@@ -1,6 +1,6 @@
 {
-  "homepage": "https://KinanAshkar.github.io/team/",
   "name": "team",
+  "homepage": "https://KinanAshkar.github.io/team/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -9,7 +9,7 @@
     "@testing-library/user-event": "^13.5.0",
     "react": "^18.1.0",
     "react-dom": "^18.1.0",
-    "react-scripts": "5.0.1",
+    "react-scripts": "^2.1.3",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
@@ -39,6 +39,7 @@
     ]
   },
   "devDependencies": {
+    "eslint-plugin-react-hooks": "^4.5.0",
     "gh-pages": "^4.0.0"
   }
 }
