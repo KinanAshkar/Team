@@ -1,5 +1,5 @@
-import { Component } from "react";
 import React from "react";
+import { Component } from "react";
 import Header from "./Header";
 import Team from "./Team";
 
